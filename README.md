@@ -41,3 +41,23 @@
 <div align="center">
   <small><i>// End of transmission //</i></small>
 </div>
+
+<br>
+
+### 📈 `./show_activity_graph.sh`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin-nathaniel&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true&title_color=00FF00" width="100%">
+</p>
+
+<br>
+
+### ⚙️ `tail -f /var/log/current_tasks.log`
+
+```text
+[2026-10-16 09:40:01] [INFO] Developing responsive website layouts & component architecture for PT. Bersinar Jaya Perkasa...
+[2026-10-16 09:42:05] [OK] Successfully deployed bilingual text content updates.
+[2026-10-16 09:45:12] [SYS] Managing IT assets: Monitoring Synology NAS via Zabbix.
+[2026-10-16 09:48:18] [NET] Routing complete: VLAN schemas and PABX configurations stable.
+[2026-10-16 09:50:22] [WAIT] Awaiting next operational command...
+```

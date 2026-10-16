@@ -47,7 +47,7 @@
 
 - **modul-pembelajaran** — learning modules, Go · [Ouroboros-Technology-ITK](https://github.com/Ouroboros-Technology-ITK/modul-pembelajaran)
 - **spotify-clone** — Spotify clone, TypeScript · [kevin-nathaniel/spotify-clone](https://github.com/kevin-nathaniel/spotify-clone)
-- **TKids-new** — TKids app, Dart · [kevin-nathaniel/TKids-new](https://github.com/kevin-nathaniel/tkids-mobile-app)
+- **tkids-mobile-app** — TKids Mobile App, Dart · [kevin-nathaniel/tkids-mobile-app](https://github.com/kevin-nathaniel/tkids-mobile-app)
 - **my-portofolio** — bilingual portfolio site, Vue 3 + TypeScript + Tailwind CSS · [kevin-nathaniel/my-portofolio](https://github.com/kevin-nathaniel/my-portofolio)
 
 ```text

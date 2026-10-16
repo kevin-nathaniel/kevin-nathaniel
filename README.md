@@ -37,11 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-nathaniel&border_radius=5&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FF00&text_color=00FF00" height="160px">
 </p>
 
----
-<div align="center">
-  <small><i>// End of transmission //</i></small>
-</div>
-
 <br>
 
 ### 📈 `./show_contribution_streak.sh`

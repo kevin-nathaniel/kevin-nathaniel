@@ -46,9 +46,7 @@
 
 ### 📈 `./show_activity_graph.sh`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin-nathaniel&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true&title_color=00FF00" width="100%">
-</p>
+[![Kevin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevin-nathaniel&theme=hacker&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Jo Kevin Nathaniel — IT Infrastructure Manager & Web Developer" width="100%" />
+  <img src="assets/banner.svg" alt="Jo Kevin Nathaniel — Software Engineer | IT Infrastructure Manager" width="100%" />
 </p>
 
 <p align="center">

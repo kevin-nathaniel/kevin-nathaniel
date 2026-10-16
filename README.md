@@ -44,9 +44,11 @@
 
 <br>
 
-### 📈 `./show_activity_graph.sh`
+### 📈 `./show_contribution_streak.sh`
 
-[![Kevin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevin-nathaniel&theme=hacker&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-nathaniel&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="GitHub Streak" width="100%" />
+</p>
 
 <br>
 

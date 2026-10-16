@@ -33,8 +33,7 @@
 ### 📊 `htop --user=kevin-nathaniel`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin-nathaniel&border_radius=5&hide_border=true&show_icons=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00" height="160px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-nathaniel&border_radius=5&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FF00&text_color=00FF00" height="160px">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevin-nathaniel&border_radius=5&hide_border=true&show_icons=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00" height="165px" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-nathaniel&border_radius=5&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FF00&text_color=00FF00" height="165px" />
 </p>
 
 <br>

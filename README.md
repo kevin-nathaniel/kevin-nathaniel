@@ -1,14 +1,12 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=00FF00&size=30&center=true&vCenter=true&width=600&height=50&lines=>+Initializing+system...;>+Welcome+to+Jo+Kevin+Nathaniel's+Terminal;>+System+status:+ONLINE" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="assets/banner.svg" alt="Jo Kevin Nathaniel — IT Infrastructure Manager & Web Developer" width="100%" />
+</p>
 
-<h3 align="center"> 
-  > <b>IT Infrastructure Manager</b> & <b>Web Developer</b> based in Indonesia. 
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=00FF00&size=28&center=true&vCenter=true&width=600&height=50&lines=>+Initializing+system...;>+Welcome+to+Jo+Kevin+Nathaniel's+Terminal;>+System+status:+ONLINE" alt="Typing SVG" />
+</p>
 
-<br>
-
-### 🗃️ `cat user_info.json`
+<img src="assets/hdr-userinfo.svg" alt="cat user_info.json" width="100%" />
 
 ```json
 {
@@ -28,30 +26,36 @@
 }
 ```
 
-<br>
-
-### 📊 `htop --user=kevin-nathaniel`
+<img src="assets/hdr-stats.svg" alt="htop --user=kevin-nathaniel" width="100%" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin-nathaniel&border_radius=5&hide_border=true&show_icons=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00" height="165px" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-nathaniel&border_radius=5&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FF00&text_color=00FF00" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevin-nathaniel&border_radius=5&hide_border=true&show_icons=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00" height="165px" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-nathaniel&border_radius=5&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00" height="165px" alt="Top languages" />
 </p>
 
-<br>
-
-### 📈 `./show_contribution_streak.sh`
+<img src="assets/hdr-streak.svg" alt="./show_contribution_streak.sh" width="100%" />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-nathaniel&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="GitHub Streak" width="100%" />
 </p>
 
-<br>
+<img src="assets/hdr-log.svg" alt="tail -f /var/log/current_tasks.log" width="100%" />
 
-### ⚙️ `tail -f /var/log/current_tasks.log`
+<img src="assets/log.svg" alt="Current tasks log" width="100%" />
+
+<img src="assets/hdr-projects.svg" alt="ls -la ./projects" width="100%" />
+
+- **modul-pembelajaran** — learning modules, Go · [Ouroboros-Technology-ITK](https://github.com/Ouroboros-Technology-ITK/modul-pembelajaran)
+- **spotify-clone** — Spotify clone, TypeScript · [kevin-nathaniel/spotify-clone](https://github.com/kevin-nathaniel/spotify-clone)
+- **TKids-new** — TKids app, Dart · [kevin-nathaniel/TKids-new](https://github.com/kevin-nathaniel/TKids-new)
+- **my-portofolio** — bilingual portfolio site, Vue 3 + TypeScript + Tailwind CSS · [kevin-nathaniel/my-portofolio](https://github.com/kevin-nathaniel/my-portofolio)
 
 ```text
-[2026-10-16 09:40:01] [INFO] Developing responsive website layouts & component architecture for PT. Bersinar Jaya Perkasa...
-[2026-10-16 09:42:05] [OK] Successfully deployed bilingual text content updates.
-[2026-10-16 09:45:12] [SYS] Managing IT assets: Monitoring Synology NAS via Zabbix.
-[2026-10-16 09:48:18] [NET] Routing complete: VLAN schemas and PABX configurations stable.
-[2026-10-16 09:50:22] [WAIT] Awaiting next operational command...
+./modules_loaded [Gaming, Audio Engineering, Photography]
 ```
+
+<img src="assets/hdr-contact.svg" alt="./contact.sh" width="100%" />
+
+<p align="center">
+  <a href="https://www.instagram.com/kevinnathaniel_10/"><img src="assets/btn-instagram.svg" alt="Instagram: @kevinnathaniel_10" /></a> <a href="https://www.linkedin.com/in/jo-kevin-nathaniel/"><img src="assets/btn-linkedin.svg" alt="LinkedIn: in/jo-kevin-nathaniel" /></a>
+</p>

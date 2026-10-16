@@ -57,5 +57,5 @@
 <img src="assets/hdr-contact.svg" alt="./contact.sh" width="100%" />
 
 <p align="center">
-  <a href="https://www.instagram.com/kevinnathaniel_10/"><img src="assets/btn-instagram.svg" alt="Instagram: @kevinnathaniel_10" /></a> <a href="https://www.linkedin.com/in/jo-kevin-nathaniel/"><img src="assets/btn-linkedin.svg" alt="LinkedIn: in/jo-kevin-nathaniel" /></a>
+  <a href="https://www.instagram.com/kevinnathaniel_10/"><picture><source media="(min-width: 500px)" srcset="assets/btn-instagram-wide.svg" /><img src="assets/btn-instagram.svg" alt="Instagram: @kevinnathaniel_10" /></picture></a> <a href="https://www.linkedin.com/in/jo-kevin-nathaniel/"><picture><source media="(min-width: 500px)" srcset="assets/btn-linkedin-wide.svg" /><img src="assets/btn-linkedin.svg" alt="LinkedIn: in/jo-kevin-nathaniel" /></picture></a>
 </p>
